@@ -1,0 +1,35 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: c7e0c6f28bf946c43ac2a2465be832ba, type: 3}
+  m_Name: Soul of the forest
+  m_EditorClassIdentifier: 
+  itemID: 0
+  displayName: Soul of the forest
+  description: 'Attack: 5
+
+    Magick Attack: 35
+
+    Wisdom: 10
+
+'
+  icon: {fileID: 21300000, guid: 236adabc59f2f3b4b96a39fe4ac71e4b, type: 3}
+  stackable: 0
+  dropChance: 100
+  price: 60
+  allowedEquipLocation: 5
+  attack: 5
+  magicAttack: 35
+  vitality: 0
+  wisdom: 10
+  defense: 0
+  magickDefense: 0
+  speed: 0
