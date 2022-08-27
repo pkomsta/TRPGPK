@@ -3,6 +3,6 @@ Project created for my Bachelor degree. In this project I created a turn based g
 
 # Screenshots
 
-![Skilltree](https://github.com/pkomsta/TRPGPK/im1.png)
-![Choose level](https://github.com/pkomsta/TRPGPK/im2.png)
-![Combat scren](https://github.com/pkomsta/TRPGPK/im3.png)
+![Skilltree](https://github.com/pkomsta/TRPGPK/blob/main/im1.png)
+![Choose level](https://github.com/pkomsta/TRPGPK/blob/main/im2.png)
+![Combat scren](https://github.com/pkomsta/TRPGPK/blob/main/im3.png)
